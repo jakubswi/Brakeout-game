@@ -1,5 +1,5 @@
-from turtle import Turtle, Screen
 import time
+from turtle import Turtle, Screen
 
 
 class Ball(Turtle):
